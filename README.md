@@ -77,4 +77,4 @@ El control de acceso por IP, la segmentación de servicios, y la exportación de
 
 ---
 
-🔗 Proyecto documentado por: **Emiliano Martínez Vega**
+Proyecto documentado por: **Emiliano Martínez Vega**
