@@ -61,7 +61,7 @@ La empresa ficticia **SecureHost Inc.** desea proteger su servidor contra acceso
 
 ## Evidencias (capturas)
 
-Las capturas se encuentran en `capturas` e incluyen:
+Las capturas se encuentran en `Capturas de Configuracion de Firewall` y `Captura de Pruebas` e incluyen:
 
 * Reglas configuradas (entrada/salida)
 * Pruebas fallidas (FTP, Telnet)
